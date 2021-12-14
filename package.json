@@ -1,0 +1,19 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewcleonard/bootcamp-module-9-jest-another-rpg.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrewcleonard/bootcamp-module-9-jest-another-rpg/issues"
+  },
+  "homepage": "https://github.com/andrewcleonard/bootcamp-module-9-jest-another-rpg#readme"
+}
